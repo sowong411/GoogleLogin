@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/onzzz/Desktop/google-services-master/android/signin/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/onzzz/Desktop/google-services-master/android/signin/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.1_a0b1365977e3801c263f43585284a6ff390def49.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/Desktop/google-services-master/android/signin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/onzzz/Desktop/google-services-master/android/signin/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_4a8ef07913f66a278c51d5d17388f0075155a48e.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/Desktop/google-services-master/android/signin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/onzzz/Desktop/google-services-master/android/signin/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.4.0_6a9fe6a510843cffabaae302f6ee0346c333c81a.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/Desktop/google-services-master/android/signin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/onzzz/Desktop/google-services-master/android/signin/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-8.4.0_a80bc5a3711386611db78d22777777305e42aae2.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/Desktop/google-services-master/android/signin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/onzzz/Desktop/google-services-master/android/signin/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_81a672b2a0f06dc372754c801d7f2c8768b37483.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/Desktop/google-services-master/android/signin/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/onzzz/Desktop/google-services-master/android/signin/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_c1303acbae388a4d4d087c4abdba0e2364516454.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/Desktop/google-services-master/android/signin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/onzzz/Desktop/google-services-master/android/signin/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_7eda722e53f115333cb4e3e6097ed0355785386d.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/onzzz/Desktop/google-services-master/android/signin/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_91ea294cd5f4f3ba4fc0ba47be948a65fd5cd289.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/Desktop/google-services-master/android/signin/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/onzzz/Desktop/google-services-master/android/signin/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_127e1d3e801c98e3caf1630991d895355539fbb9.jar" />
+    </item>
+
+</items>
